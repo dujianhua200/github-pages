@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://hkbertoson.github.io',
+    site: 'https://dujianhua200.github.io',
     base: '/github-pages'
 });
